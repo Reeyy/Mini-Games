@@ -2,6 +2,9 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
+    font: {
+      rail: "Raleway, sans-serif ",
+    },
     extend: {},
   },
   plugins: [],
