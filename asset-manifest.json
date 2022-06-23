@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mini-Games/static/css/main.787f757d.css",
+    "main.js": "/Mini-Games/static/js/main.4b9a7984.js",
+    "static/js/787.37b455f4.chunk.js": "/Mini-Games/static/js/787.37b455f4.chunk.js",
+    "static/media/Viper.png": "/Mini-Games/static/media/Viper.c6402aea6fea977721a3.png",
+    "static/media/Raze.png": "/Mini-Games/static/media/Raze.87b66b7eb8017dc0ef53.png",
+    "static/media/Sova.png": "/Mini-Games/static/media/Sova.c18dfd937cf2c20e537c.png",
+    "static/media/Yoru.png": "/Mini-Games/static/media/Yoru.b53cf11d0571c9bb2023.png",
+    "static/media/Jett.png": "/Mini-Games/static/media/Jett.1b190c576f09e3eddd2a.png",
+    "static/media/Phoenix.png": "/Mini-Games/static/media/Phoenix.bf92fb9a572b7da9136f.png",
+    "static/media/Omen.png": "/Mini-Games/static/media/Omen.64105c849cbac5ba0e6e.png",
+    "static/media/Brimstone.png": "/Mini-Games/static/media/Brimstone.8e135aefb2f6b83909ed.png",
+    "index.html": "/Mini-Games/index.html",
+    "main.787f757d.css.map": "/Mini-Games/static/css/main.787f757d.css.map",
+    "main.4b9a7984.js.map": "/Mini-Games/static/js/main.4b9a7984.js.map",
+    "787.37b455f4.chunk.js.map": "/Mini-Games/static/js/787.37b455f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.787f757d.css",
+    "static/js/main.4b9a7984.js"
+  ]
+}
